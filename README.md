@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**AnghamReg/AnghamReg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Angham Regaieg, a passionate full-stack developer with expertise in a variety of technologies. Here's a glimpse of my tech stack:
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Flutter, HTML
+- **State Management:** GetX architecture
+- **Backend:** NestJS, Spring Boot
+- **Databases:** MongoDB, Oracle DB
+- **Mobile Development:** Dart
+- **Other Languages:** Java, C , JavaScript
+- **Cloud Services:** Google Firebase
+- **API Testing:** Postman
+
+## About Me
+
+I thrive on creating seamless and scalable applications that deliver exceptional user experiences. My journey in software development has led me to explore various technologies, and I'm always excited about staying up-to-date with the latest industry trends.
